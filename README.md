@@ -6,6 +6,9 @@ A comprehensive course on building AI agents with the Strands Agents framework, 
 
 This course takes you through a complete journey of learning how to build, customize, deploy, and orchestrate AI agents using the Strands Agents framework. All examples use the Amazon Bedrock Nova Lite model (`us.amazon.nova-lite-v1:0`).
 
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/9393026d-c1dc-4476-ad2f-e4820c9ba344" />
+
+
 ## Prerequisites
 
 - Python 3.12 or higher
