@@ -2,12 +2,13 @@
 
 A comprehensive course on building AI agents with the [Strands Agents](https://strandsagents.com/) framework, from beginner to advanced levels.
 
+> WARNING: A tiny Ads here for build [Streamlit App Demonstrating Strands Agents](https://github.com/davidshtian/Strands-Agents-on-Streamlit).
+
 ## Course Overview
 
 This course takes you through a complete journey of learning how to build, customize, deploy, and orchestrate AI agents using the Strands Agents framework. All examples use the Amazon Bedrock Nova Lite model (`us.amazon.nova-lite-v1:0`).
 
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/9393026d-c1dc-4476-ad2f-e4820c9ba344" />
-
 
 ## Prerequisites
 
@@ -82,5 +83,6 @@ The later chapters cover advanced topics including:
 - All examples use the Nova Lite model from Amazon Bedrock
 - Make sure to set up your AWS credentials appropriately when working with the examples
 - Each notebook is self-contained and can be run independently, though they build on concepts from earlier chapters
+- Other examples could be found here.
 
 Happy learning! 🎉
