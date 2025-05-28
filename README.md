@@ -1,6 +1,6 @@
 # Strands Agents Learning Course
 
-A comprehensive course on building AI agents with the Strands Agents framework, from beginner to advanced levels.
+A comprehensive course on building AI agents with the [Strands Agents](https://strandsagents.com/) framework, from beginner to advanced levels.
 
 ## Course Overview
 
