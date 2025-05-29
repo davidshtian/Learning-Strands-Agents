@@ -8,6 +8,8 @@ A mini course on building AI agents with the [Strands Agents](https://strandsage
 
 This course takes you through a complete journey of learning how to build, customize, deploy, and orchestrate AI agents using the Strands Agents framework. All examples use the Amazon Bedrock Nova Lite model (`us.amazon.nova-lite-v1:0`).
 
+> Tips: You can also find more information and ask questions on [DeepWiki page](https://deepwiki.com/davidshtian/Learning-Strands-Agents).
+
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/9393026d-c1dc-4476-ad2f-e4820c9ba344" />
 
 ## Prerequisites
