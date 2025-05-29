@@ -1,6 +1,6 @@
 # Strands Agents Learning Course
 
-A comprehensive course on building AI agents with the [Strands Agents](https://strandsagents.com/) framework, from beginner to advanced levels.
+A mini course on building AI agents with the [Strands Agents](https://strandsagents.com/) framework, from beginner to advanced levels.
 
 > WARNING: A tiny Ads here for building your [Streamlit App Demonstrating Strands Agents](https://github.com/davidshtian/Strands-Agents-on-Streamlit).
 
