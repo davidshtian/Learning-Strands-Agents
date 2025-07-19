@@ -10,7 +10,7 @@ This course takes you through a complete journey of learning how to build, custo
 
 > Tips: You can also find more information and ask questions on [DeepWiki page](https://deepwiki.com/davidshtian/Learning-Strands-Agents).
 
-<img width="998" alt="image" src="https://github.com/user-attachments/assets/9393026d-c1dc-4476-ad2f-e4820c9ba344" />
+<img width="917" height="673" alt="image" src="https://github.com/user-attachments/assets/0a70badb-48ca-44b9-8178-c85c2c2db633" />
 
 ## Prerequisites
 
